@@ -1,4 +1,4 @@
-[![Abdul's GitHub Banner](./assets/GithubBanner.png)](https://abdulfarhan.com)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-karthik-66ab46207//">
